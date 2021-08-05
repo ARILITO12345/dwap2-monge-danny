@@ -1,0 +1,17 @@
+[
+    {
+      "nombre": "MERMELADA DE MORA",
+      "precio": "$2",
+      "imagen": "https://www.hogarmania.com/archivos/201909/mermelada-de-moras-xl-1280x720x80xX.jpg"
+    },
+    {
+      "nombre": "MERMELADA DE DURAZNO",
+      "precio": "$1.50",
+      "imagen": "https://www.comedera.com/wp-content/uploads/2020/12/front-view-of-jar-with-peach-jam-and-bread-scaled.jpg"
+    },
+    {
+      "nombre": "MERMELADA PIÑA",
+      "precio": "$1.50",
+      "imagen": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2018/07/como-hacer-mermelada-de-pina-casera.jpg"
+    }
+]

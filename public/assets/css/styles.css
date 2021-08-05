@@ -1,0 +1,220 @@
+body{ 
+  background-size: cover;
+  margin: 0 auto;
+}
+
+
+
+.header{
+  background: center no-repeat fixed rgba(122, 122, 122, 0.253)
+  url("https://goula.lat/wp-content/uploads/2019/11/mermeladas-artesanales-1024x576.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-size: cover;
+  margin: 0 auto;
+
+}
+
+.banner{
+text-align: center;
+}
+
+h1{
+font-family: 'Fredoka One', cursive;
+color: #588157;
+font-size: 2.5em;
+
+}
+
+h2{
+font-family: 'Nanum Brush Script', cursive;
+}
+p{
+font-family: 'Indie Flower', cursive;
+}
+h4{
+font-family: 'Amatic SC', cursive;
+}
+#font-1{
+font-family: 'Sacramento', cursive;
+font-size: 3em;
+margin: 0 auto;
+
+}
+
+#font-2{
+font-family: 'Press Start 2P', cursive;
+font-size: 1em;
+margin: 2em;
+}
+
+#font-3{
+
+font-size: 2em;
+}
+
+
+button{
+background: none;
+color: #264653;
+border: 7px double;
+padding: 0.6em 2em;
+font-size: 0.8em;
+transition: color 0.25s, border-color 0.25s;
+
+}
+
+button:hover{
+border-color: #8b5e83;
+color: #d6b0b1;
+cursor: pointer;
+}
+.contenedor-sobre-nosotros{
+display: flex;
+justify-content: space-evenly;
+padding: 5em 0;
+}
+
+.imajen{
+  
+  height: 18.5em;
+  transition: width 1s, height 1s, transform 1s;
+
+}
+.imajen:hover{
+
+transform: scale(1.2);
+cursor: pointer;
+
+}
+.sobre-nosotros .contenido-textos{
+width: 20%;
+}
+.contenido-texto p {
+padding:0px 0px 30px 15px;
+font-weight: 300;
+text-align: justify;
+}
+.contenedor sobre-nosotros{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.contenido-texto{
+width: 30em;
+}
+
+
+/*PRODUCTS STYLE*/
+.products{
+background-color:  #bdc3c7ab;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.content-products{
+  padding: 2.5em 0;
+  display: flex;
+  text-align: justify;
+  align-items: center;
+  color: white;
+}
+
+#products-information{
+  margin: 1em 2em;
+  width: 20em;
+}
+
+#products-information h3{
+font-family: 'Shadows Into Light', cursive;
+font-size: 1.5em;
+}
+
+#products-services{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+#div-services{
+padding: 0 0 0 1em;
+}
+
+#div-services h2{
+font-family: 'Fira Sans', sans-serif;
+font-size: 1em;
+}
+
+#div-services h3{
+font-family: 'Stick', sans-serif;
+font-size: 0.8em;
+}
+
+#products-image{
+object-fit: cover;
+border-radius: 0.5em;
+height: 15em;
+}
+/*END PRODUCTS STYLE*/
+
+/*CONTACTS STYLE*/
+.contacts{
+background-color: white;
+display: flex;
+align-items: center;
+justify-content:flex-start;
+}
+
+.content-contacts{
+padding: 2.5em 2.5em;
+display: flex;
+text-align: justify;
+align-items: center;
+}
+
+#contacts-information{
+margin: 0 3em;
+width: 30em;
+}
+
+#contacts-information h3{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 1em;
+}
+
+.content-contacts>div>p{
+margin: 1em 0;
+}
+
+/*END CONTACTS STYLE*/
+
+/*FOOTER STYLE*/
+.footer{
+background-color: #d6b0b1;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.content-footer{
+padding: 1em 0;
+display: flex;
+text-align: center;
+align-items: center;
+}
+
+#products-image{
+  height: 10em;
+}
+p{
+  color: #22021c;
+}
+
+
+
+
+  
+  
